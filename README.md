@@ -8,8 +8,8 @@
 
   <div>
   <a href="https://github.com/miriambastos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miriambastos&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriambastos&layout=compact&langs_count=16&theme=aura_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miriambastos&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriambastos&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miriam-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
