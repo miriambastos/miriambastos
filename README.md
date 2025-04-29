@@ -3,7 +3,7 @@
 
 - 👩🏽‍💻 Estudante de Ciência da Computação em transição de carreira da área de Ciências Contabeis
   
-- 🌱 Estudando Logica de programação, Java, desenvolvimento web e linux.
+- 🌱 Estudando Logica de programação, Java, desenvolvimento web.
   
 - 📚 Com a minha formação backend no curso Estartando Devs, consegui desenvolver e aprimorar minhas habilidades em programação, focada no ecossistema .NET, linguagem C#, bem como clean architecture, API REST, testes unitários, docker e banco de dados. 
   Também, dentro deste curso de formação, tivemos aulas direcionadas a aperfeiçoamento de soft skills, como inteligência emocional, ética, e metodologia Scrum.
